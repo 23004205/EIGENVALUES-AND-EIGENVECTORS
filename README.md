@@ -22,7 +22,8 @@ print("Eigen values are",values,"and Eigen Vectors are",vectors)
 
 ```
 ## Output:
-![Screenshot 2023-12-16 160240](https://github.com/23004205/EIGENVALUES-AND-EIGENVECTORS/assets/138971114/0afbf1c1-5c4e-4a94-ba44-9682229d3764)
+
+![Screenshot 2023-12-19 112438](https://github.com/23004205/EIGENVALUES-AND-EIGENVECTORS/assets/138971114/93acb1fa-0a65-4029-99bc-259fbfa48cf9)
 
 
 
